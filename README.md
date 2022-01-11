@@ -4,4 +4,4 @@ Model data is provided in "data" dir. Both single and multi task data are proces
 Before training, please change the file destination according to local path.
 
 
-Fingerprints are calculated by (PaDEL-Descriptor)[http://www.yapcwsoft.com/dd/padeldescriptor/]
+Fingerprints are calculated by PaDEL-Descriptor[http://www.yapcwsoft.com/dd/padeldescriptor/]
